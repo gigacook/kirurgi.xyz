@@ -1,6 +1,10 @@
-# gigacook.github.io
+# kirurgi.xyz 🩺
 
-Swedish surgical-training question banks, coverage maps and decision matrices, served from GitHub Pages.
+**KIR Engine**: a Swedish surgical-training quiz app, live at [kirurgi.xyz](https://kirurgi.xyz).
+
+Question banks, coverage maps, audits and clinical decision matrices for 10 specialties (anestesi, kirurgi, ortopedi, endokrinkirurgi, handkirurgi, kärlkirurgi, onkologi, plastikkirurgi, urologi, akutmedicin & trauma), all mapped to the official curriculum. Study, quiz or sit a full exam, and level up while you do it.
+
+> Cheaper than failing the exam. Less messy than practising on real patients.
 
 
 ## ☕ Support
